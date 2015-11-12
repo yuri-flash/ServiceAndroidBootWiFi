@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Yuri Rodrigues\AndroidStudioProjects\WiFiNotifications\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Yuri Rodrigues\AndroidStudioProjects\WiFiNotifications\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-d1e2554c51b988f4d37369217194881817d4ac8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Rodrigues\AndroidStudioProjects\WiFiNotifications\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Yuri Rodrigues\AndroidStudioProjects\WiFiNotifications\app\build\intermediates\pre-dexed\debug\classes-333280efaec9b0c4fa0298b0e56f927fe1421c6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Rodrigues\AndroidStudioProjects\WiFiNotifications\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Yuri Rodrigues\AndroidStudioProjects\WiFiNotifications\app\build\intermediates\pre-dexed\debug\classes-e0ec2d11750600905311456509d4ca247ec6bcf1.jar" />
+    </item>
+    <item
+        jar="C:\android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Yuri Rodrigues\AndroidStudioProjects\WiFiNotifications\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-5d0768e589ae74917314263ec75f0a2a12160386.jar" />
+    </item>
+
+</items>
